@@ -1,4 +1,4 @@
-[![banner](banner.png)](http://introtodeeplearning.com)
+[![banner](assets/banner.png)](http://introtodeeplearning.com)
 
 # MIT 6.S191 Introduction to Deep Learning
 
